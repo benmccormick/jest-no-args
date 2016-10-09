@@ -1,0 +1,1 @@
+This repo is intended to show repro steps for a previously working case.  With Jest 15, test.js passes (because `toHaveBeenCalledWith` correctly requires a function to be called with no arguments if it is called with no arguments.
